@@ -1,0 +1,8 @@
+a{
+    background-color: lightgray;
+}
+
+a:hover{
+    background-color: grey;
+    color: ghostwhite;
+}
